@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Luiz Felipe
 
-💻 Desenvolvedor Back-End  
-
 🎓 **Formação**  
 Cursando Sistema de Informação - UNA 
+
+💻 Desenvolvedor Back-End  
 
 ---
 
