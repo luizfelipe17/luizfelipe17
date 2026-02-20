@@ -41,7 +41,7 @@ Sistema desenvolvido em **Java**, sendo meu principal projeto, aplicando conceit
 
 📧 Email: *luizfeliperabelo17@gmail.com*  
 💼 LinkedIn: *https://linkedin.com/in/luiz-felipe-rabelo-frança-8a52641bb*  
-📸 Instagram: *https://instagram.com/luizfelipe17_*  
+📸 Instagram: *@luizfelipe17_*  
 
 ---
 
