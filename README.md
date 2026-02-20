@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Felipe
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=350&lines=👋+Olá%2C+eu+sou+Luiz+Felipe)](https://git.io/typing-svg)
 
 🎓 **Formação**  
 Cursando Sistema de Informação - UNA 
