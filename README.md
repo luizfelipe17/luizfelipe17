@@ -31,26 +31,17 @@ Projeto desenvolvido com foco em performance, responsividade e experiência do u
 ## ⭐ Projeto Principal em Java
 
 ### 📌 LisTudo  
-🔗 Repositório: *(coloque aqui o link do repositório LisTudo)*  
+🔗 Repositório: *https://github.com/luizfelipe17/LisTudo*  
 
 Sistema desenvolvido em **Java**, sendo meu principal projeto, aplicando conceitos de orientação a objetos, organização de código e boas práticas de desenvolvimento.
 
 ---
 
-## 💙 Projeto em C#
-
-### 📌 MedSuply  
-🔗 Repositório: *(coloque aqui o link do repositório MedSuply)*  
-
-Projeto desenvolvido em **C#**, com foco em estruturação de sistema e organização de processos.
-
----
-
 ## 📫 Contato
 
-📧 Email: *(seuemail@email.com)*  
-💼 LinkedIn: *(https://linkedin.com/in/seuusuario)*  
-📸 Instagram: *(https://instagram.com/seuusuario)*  
+📧 Email: *luizfeliperabelo17@gmail.com*  
+💼 LinkedIn: *https://linkedin.com/in/luiz-felipe-rabelo-frança-8a52641bb*  
+📸 Instagram: *https://instagram.com/luizfelipe17_*  
 
 ---
 
